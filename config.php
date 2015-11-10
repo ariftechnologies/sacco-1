@@ -13,5 +13,5 @@ $database = mysql_select_db(DB_DATABASE) or die(mysql_error());
 // else{
 // 	echo mysql_error();
 // }
-
+//thanks for the project yeeeeeeeeeeh ive downloaded it my nigga
 ?>
